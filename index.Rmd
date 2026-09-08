@@ -1,15 +1,15 @@
 --- 
 title: "AWS/UNIX 2026"
-author: Material by Jose Hector Galvez, Zhibin Lu & Rob Syme
+faculty: Material by Zhibin Lu & Alyona Ivanova
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-url: https://bioinformaticsdotca.github.io/AWS_2025/ 
+url: https://bioinformaticsdotca.github.io/AWS-UNIX_2026/ 
 cover-image: img/bioinformatics_logo.png
 description: |
   Wwbsite for the Canadian Bioinformatics Workshops' AWS/Unix primer
 link-citations: yes
-github-repo: cbw-dev/AWS_2025 # CHANGE THIS TO YOUR OWN REPO
+github-repo: cbw-dev/AWS-UNIX_2026 # CHANGE THIS TO YOUR OWN REPO
 favicon: img/favicon.ico
 ---
 
@@ -31,15 +31,15 @@ You will need a UNIX environment (like a Linux/Mac computer or Windows Subsystem
 
 | (ET) |                      Module                     |
 |:-----:|:-----------------------------------------------:|
-| 11:00 |               Welcome Introduction              |
-| 11:10 |            Module 1: Logging into AWS           |
-| 12:10 |                   Short Break                   |
-| 12:15 | Module 2: Introduction to the UNIX Command Line |
-| 12:35 |           Module 3: File Manipulation           |
-| 13:05 |                    Long Break                   |
-| 14:05 |  Module 4: Searching and Sorting Through Files  |
-| 15:00 |                   Short Break                   |
-| 15:05 |             Module 5: Shell scripts             |
-| 16:00 |                     Finished                    |
+| 10:00 |               Welcome Introduction              |
+| 10:10 |            Module 1: Logging into AWS           |
+| 11:10 |                   Short Break                   |
+| 11:15 | Module 2: Introduction to the UNIX Command Line |
+| 11:35 |           Module 3: File Manipulation           |
+| 12:05 |                    Long Break                   |
+| 13:05 |  Module 4: Searching and Sorting Through Files  |
+| 14:00 |                   Short Break                   |
+| 14:05 |             Module 5: Shell scripts             |
+| 15:00 |                     Finished                    |
 
 
