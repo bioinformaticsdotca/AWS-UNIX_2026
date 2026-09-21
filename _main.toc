@@ -6,6 +6,7 @@
 \contentsline {subsubsection}{\numberline {2.0.1.1}Zhibin Lu (he/him)}{7}{subsubsection.2.0.1.1}%
 \contentsline {subsubsection}{\numberline {2.0.1.2}Alyona Ivanova}{7}{subsubsection.2.0.1.2}%
 \contentsline {subsection}{\numberline {2.0.2}Teaching Assistants}{8}{subsection.2.0.2}%
+\contentsline {subsubsection}{\numberline {2.0.2.1}Aqsa Alam}{8}{subsubsection.2.0.2.1}%
 \contentsline {subsection}{\numberline {2.0.3}Facilitator}{8}{subsection.2.0.3}%
 \contentsline {subsubsection}{\numberline {2.0.3.1}Neha Ratti (she/her)}{8}{subsubsection.2.0.3.1}%
 \contentsline {subsubsection}{\numberline {2.0.3.2}Sian Brooks (she/her)}{8}{subsubsection.2.0.3.2}%

@@ -6,6 +6,7 @@ instructors
 zhibin-lu-hehim
 alyona-ivanova
 teaching-assistants
+aqsa-alam
 facilitator
 neha-ratti-sheher
 sian-brooks-sheher

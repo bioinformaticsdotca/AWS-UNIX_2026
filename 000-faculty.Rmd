@@ -35,7 +35,7 @@ Zhibin Lu is a senior manager at University Health Network Digital. He is respon
 
 >PhD Candidate  <br>
 University of Toronto, The Hospital for Sick Children <br>
-Toronto, BC, Canada 
+Toronto, ON, Canada 
 >
 > --- alyona.ivanova@mail.utoronto.ca
 
@@ -43,7 +43,19 @@ Alyona is a graduate student at the University of Toronto pursuing PhD in Medica
 
 ### Teaching Assistants
 
-TBD
+#### Aqsa Alam
+
+<img src="./img/faculty/aqsa-alam.jpeg" width="200" alt="Photo of Alyona Ivanova">
+
+>Bioinformatician III  <br>
+Ontario Institute for Cancer Research <br>
+Toronto, Ontario, Canada 
+>
+> --- aalam@oicr.on.ca
+
+Aqsa Alam is a bioinformatician in the Clinical Genome Interpretation team at the Ontario Institute of Cancer Research. Aqsa did her Honours BSc with high distinction in Biology and Physics at the University of Toronto Mississauga and her MSc in Cell and Systems Biology at the University of Toronto. Aqsa is passionate about communication and scientific outreach. Her current work focuses on genomic interpretation in cancer and supporting accredited clinical trials.
+
+
 
 
 ### Facilitator
