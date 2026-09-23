@@ -74,7 +74,7 @@ Neha is passionate about advancing bioinformatics and data science training acro
 
 #### Sian Brooks (she/her)
 
-<img src="./img/faculty/MISSINGHEADSHOT.png" width="200" alt="Photo of Sian Brooks">
+<img src="./img/faculty/SianBrooks.JPG" width="200" alt="Photo of Sian Brooks">
 
 >Regional Coordinator, CBH Ontario <br>
 Canadian Bioinformatics Hub, University Health Network  <br>
@@ -82,4 +82,4 @@ Toronto, ON, Canada
 >
 > --- ontario@bioinformatics.ca 
 
-Bio coming soon
+Sian Brooks is the Ontario Co-Regional Coordinator for the Canadian Bioinformatics Hub. With over eight years of experience in the healthcare field and a background in office administration and event coordination, Sian brings a steady, detail-oriented approach to program delivery. She is committed to fostering a collaborative and supportive environment for trainees and researchers alike, helping to strengthen Ontario's standing within the national bioinformatics community.
