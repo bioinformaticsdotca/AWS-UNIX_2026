@@ -1,6 +1,6 @@
 --- 
 title: "AWS/UNIX 2026"
-faculty: Material by Zhibin Lu & Alyona Ivanova
+faculty: Material by Zhibin Lu & Aqsa Alam
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -27,7 +27,7 @@ You will need a UNIX environment (like a Linux/Mac computer or Windows Subsystem
 
 ### Schedule
 
-**Foundational Spatial 'Omics Analysis AWS/UNIX pre-session 2026**: Wednesday, September 23, 2026
+**Cancer Analysis AWS/UNIX pre-session 2026**: Wednesday, October 14, 2026
 
 | (ET) |                      Module                     |
 |:-----:|:-----------------------------------------------:|

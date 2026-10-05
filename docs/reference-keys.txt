@@ -4,9 +4,9 @@ schedule
 meet-your-faculty
 instructors
 zhibin-lu-hehim
-alyona-ivanova
-teaching-assistants
 aqsa-alam
+teaching-assistants
+oliver-de-sa
 facilitator
 neha-ratti-sheher
 sian-brooks-sheher

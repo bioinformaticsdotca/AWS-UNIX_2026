@@ -29,23 +29,9 @@ Toronto, ON, Canada
 
 Zhibin Lu is a senior manager at University Health Network Digital. He is responsible for UHN HPC operations and scientific software. He manages two HPC clusters at UHN, including system administration, user management, and maintenance of bioinformatics tools for HPC4health. He is also skilled in Next-Gen sequence data analysis and has developed and maintained bioinformatics pipelines at the Bioinformatics and HPC Core. He is a member of the Digital Research Alliance of Canada Bioinformatics National Team and Scheduling National Team.
 
-#### Alyona Ivanova
-
-<img src="./img/faculty/Alyona-Ivanova.JPG" width="200" alt="Photo of Alyona Ivanova">
-
->PhD Candidate  <br>
-University of Toronto, The Hospital for Sick Children <br>
-Toronto, ON, Canada 
->
-> --- alyona.ivanova@mail.utoronto.ca
-
-Alyona is a graduate student at the University of Toronto pursuing PhD in Medical Sciences. Her research focuses on identifying novel therapies for targeting chemo-resistance in glioblastoma using spatial ‘omics technologies. She works in close collaboration with clinicians, neuropathologists, scientists bridging the gap between clinical practice and fundamental lab research. Alyona is a Creative Director of Panoramics - A Vision, and an Executive Editor and Director of Distribution of the Institute of Medical Sciences Magazine. 
-
-### Teaching Assistants
-
 #### Aqsa Alam
 
-<img src="./img/faculty/aqsa-alam.jpeg" width="200" alt="Photo of Alyona Ivanova">
+<img src="./img/faculty/aqsa-alam.jpeg" width="200" alt="Photo of Aqsa Alam">
 
 >Bioinformatician III  <br>
 Ontario Institute for Cancer Research <br>
@@ -54,8 +40,20 @@ Toronto, Ontario, Canada
 > --- aalam@oicr.on.ca
 
 Aqsa Alam is a bioinformatician in the Clinical Genome Interpretation team at the Ontario Institute of Cancer Research. Aqsa did her Honours BSc with high distinction in Biology and Physics at the University of Toronto Mississauga and her MSc in Cell and Systems Biology at the University of Toronto. Aqsa is passionate about communication and scientific outreach. Her current work focuses on genomic interpretation in cancer and supporting accredited clinical trials.
+ 
 
+### Teaching Assistants
 
+#### Oliver  De Sa
+
+<img src="./img/faculty/oliver-de sa.jpg" width="200" alt="Photo of Oliver De Sa">
+
+Bioinformatician III
+Ontario Institute for Cancer Research
+Toronto, Ontario, Canada
+odesa@oicr.on.ca
+
+Oliver De Sa is a bioinformatician in the Window-of-Opportunity (WOO) network at the Ontario Institute for Cancer Research. Oliver completed a BSc in Biochemistry, followed by an MSc in Immunology both at the University of Toronto. His current work focuses on multi-omic analyses for WOO clinical trials, integrating various data types to describe the molecular mechanisms through which the tumour microenvironment responds to treatment.
 
 
 ### Facilitator
